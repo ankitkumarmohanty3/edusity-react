@@ -9,7 +9,6 @@
    "homepage": "https://<ankitkumarmohanty3>.github.io/<edusity-react>",
   "scripts": {
      "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "dev": "vite",
     "build": "vite build",
